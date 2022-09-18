@@ -2,17 +2,25 @@
     width: 100%;
     height: 100px;
     background-color: burlywood;
+    position: fixed;
 }
-.titulo {
+.box {
     width: 40%;
     height: 80%;
-    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
     margin-bottom: 0px;
     margin-left: 30%;
     margin-right: 30%;
     font-family: 'Gruppo';
     font-size: 30px;
-    text-align: center;
     background-color: brown;
     outline: solid 2px white;
+}
+.cuerpo {
+    width: 80%;
+    height: 500px;
+    background-color: coral;
 }
