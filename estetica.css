@@ -15,12 +15,33 @@
     margin-left: 30%;
     margin-right: 30%;
     font-family: 'Gruppo';
-    font-size: 30px;
+    font-size: 40px;
+    font-weight: 700;
     background-color: brown;
     outline: solid 2px white;
 }
 .cuerpo {
-    width: 80%;
-    height: 500px;
+    width: 60%;
+    height: 800px;
     background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.frase {
+    font-family: 'Gruppo'; font-size: 36px;
+    word-spacing: 2px;
+    line-height: 26px;
+    font-weight: 600;
+    text-align: center;
+}
+.tareas {
+    font-family: 'Gruppo'; font-size: 20px;
+}
+.entry-box {
+    font-family: 'Gruppo'; font-size: 20px;
+    width: 500px;
+    text-align: center;
 }
