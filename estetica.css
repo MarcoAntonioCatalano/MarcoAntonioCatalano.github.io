@@ -1,12 +1,18 @@
-<<<<<<< HEAD
 .header {
     width: 100%;
-    height: 200px;
-    background-color: green;
-=======
-.header {
-    width: 100%;
-    height: 200px;
-    background-color: aquamarine;
->>>>>>> a68b7407523d68ed0838b05ac2495163a59ac95d
+    height: 100px;
+    background-color: burlywood;
+}
+.titulo {
+    width: 40%;
+    height: 80%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Gruppo';
+    font-size: 30px;
+    text-align: center;
+    background-color: brown;
+    outline: solid 2px white;
 }
